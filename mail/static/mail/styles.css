@@ -1,0 +1,39 @@
+textarea {
+    min-height: 400px;
+}
+
+.mail_list{
+
+	border: 2px solid black;
+	margin: 2px;
+	display: flex;	
+}
+
+.sender {
+	margin: 2px;
+	width: 100px;
+	float: left;
+	text-align: center;
+}
+.subject{
+	margin: 2px;
+	flex-grow: 1;
+	text-align: center;
+
+}
+
+.time{
+	width: 300px;
+	margin: 2px;
+	text-align: center;
+
+}
+
+button{
+	width: 90px;
+	height: 30px;
+	margin: 2px;
+	
+}
+
+
